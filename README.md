@@ -4,7 +4,7 @@ Selected in Social Winter of Code (SWoC)
 
 This project has been selected for Social Winter of Code (SWoC), and is actively open to community contributions.
 Before contributing, please read CONTRIBUTION.md carefully.
-
+Contribution period ended on 1st March, Thank you everyone. 
 ⭐ Please Star the Repository if you liked it, thank you! ⭐
 
 ## What is Xaytheon?
